@@ -11,7 +11,7 @@ which is responsible for the forming of hair, skin, and nails.
 - Are an intermediate filament, which means they make up the structure of cells.
 - Greatly depend on sulfur to protect against oxidative stress
 
-}
+## }
 
 Keratin deficiency (low keratin) can result in dry or flaky skin, breakage and split ends in hair, hair with high porosity (absorbs water quickly), and brittle nails.
 
@@ -28,4 +28,4 @@ Keratin deficiency is caused by poor diet, pollution, and UV exposure.
 - Sulfur-based hair products fight against oxidative stress, protecting your hair against free radicals.
 - Silk bonnets and pillowcases help reduce friction-induced hair breakage and frizz, as well as the fact that silk is made of keratin as well as other fibrous proteins.
 
-}
+# }
